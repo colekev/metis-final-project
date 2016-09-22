@@ -1,7 +1,7 @@
 # Metis Final Project
 ## Playing to Win with Social Media
 
-This project was the culmination of my 12-week [data science bootcamp](http://www.thisismetis.com/data-science-bootcamps) with Metis. For my project, I wanted to combine my love of fantasy football, social media and [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing). Can incoporating social media improve fantasy football projects? Can you build a sentiment tracker that allows fans and fanatsy football players to see and compare the public's opinion on various players?
+This project was the culmination of my 12-week [data science bootcamp](http://www.thisismetis.com/data-science-bootcamps) with Metis. For my project, I wanted to combine my love of fantasy football, social media and [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing). Can incorporating social media improve fantasy football projects? Can you build a sentiment tracker that allows fans and fantasy football players to see and compare the public's opinion on various players?
 
 ### The Data
 
