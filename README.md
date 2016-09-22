@@ -13,4 +13,4 @@ I obtaioned historical player stats from [Armchair Analysis](http://www.armchair
 
 For more information on the details and results, you can see [a PDF copy](https://github.com/colekev/metis-final-project/blob/master/presentation/metis_final_project_kevin_cole.pdf) of my presentation, or [the keynote format](https://github.com/colekev/metis-final-project/blob/master/presentation/metis_final_project_kevin_cole.key) with an embedded video of my player sentiment tracking tool.
 
-![qb_value_adp_2016]()
+![sentiment tracker](https://github.com/colekev/metis-final-project/blob/master/images/twitter_sentiment_tracker.png)
